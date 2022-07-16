@@ -7,7 +7,7 @@ Hey, I'm [Naresh Verma](https://github.com/naresh-webkul), a passionate self-tau
 I'm also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
 
-  <img align="right" alt="GIF" src="https://github.com/naresh-webkul/naresh-webkul/blob/master/coding-typing.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/naresh-webkul/naresh-webkul/blob/master/developer.gif?raw=true" width="500" height="320" />
   
 
 - 💬 ask me about anything, I'll be happy to help;
